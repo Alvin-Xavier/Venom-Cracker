@@ -23,6 +23,11 @@
 ## OS
 
 * Windows
+
+## Requirements
+
+* Python3
+
 ## Deployment
 
 * To Deploy This Project.
