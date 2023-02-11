@@ -3,6 +3,9 @@
 
 * A Simple Hash Cracking Tool.
 
+![Screenshot (24)](https://user-images.githubusercontent.com/124868088/218231701-27d35ed1-fe05-4df9-a8a6-fc3908be35fd.png)
+
+
 
 
 
