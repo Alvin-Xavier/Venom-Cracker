@@ -4,8 +4,6 @@ import turtle
 
 import pyfiglet
 
-import colorama
-
 import pyautogui
 from colorama import Fore,Style
 
