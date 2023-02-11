@@ -7,7 +7,7 @@
 
 
 
-![python4](https://user-images.githubusercontent.com/124868088/218231780-0aa6a577-f5cd-4926-99ab-b5f2b52a4327.png)
+
 
 
 
